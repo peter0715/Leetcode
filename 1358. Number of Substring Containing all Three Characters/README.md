@@ -1,5 +1,6 @@
 ### 1358. Number of Substring Containing all Three Characters
 
+Medium
  
 Given a string s consisting only of characters a, b and c.
 
